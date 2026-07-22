@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Program Files (x86)\Java\javacopy" version="1.8.0_361">
+        <bootpath>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\resources.jar"/>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\rt.jar"/>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\jsse.jar"/>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\jce.jar"/>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\charsets.jar"/>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\jfr.jar"/>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files (x86)\Java\javacopy\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="D:\sts-5.2.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.3.v20260502-0818\jre" version="25.0.3"/>
+    <libraryInfo home="C:\Program Files\Java\jdk-25.0.2" version="25.0.2"/>
+    <libraryInfo home="D:\sts-5.2.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.3.v20260502-0818" version="25.0.3">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
