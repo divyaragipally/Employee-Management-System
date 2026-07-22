@@ -166,8 +166,8 @@ http://localhost:5173
 ```
 screenshots/
 ├──Login.png
-├── add-employee.png
-└── update-employee.png
+├── Add Employee.png
+└── Update Employee.png
 ```
 
 ---
