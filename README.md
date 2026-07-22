@@ -7,7 +7,6 @@ This application provides CRUD operations to manage employee details, including 
 
 - Add new employees
 - View all employees
-- Search employee details by ID
 - Update employee information
 - Delete employee records
 - Manage department details
